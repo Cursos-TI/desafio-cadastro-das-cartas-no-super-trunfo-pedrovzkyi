@@ -132,5 +132,5 @@ int main(){
     printf("PIB per Capita: %.2f de reais\n", pib_per_capita2);
     printf("O super poder da carta é %.2f\n", superpoder2);
 
-    return 0
+    return 0;
 }
